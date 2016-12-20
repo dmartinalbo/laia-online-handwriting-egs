@@ -6,3 +6,5 @@
 stroke_id x y time is_writing
 ...
 ```
+
+Drop dataset in `data/corpus/`.
